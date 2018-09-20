@@ -1,6 +1,6 @@
 import React from 'react';
 import { StyleSheet, Text, View,ImageBackground } from 'react-native';
-import background from './bg.jpg' ;
+import background from './bbg.png' ;
 import Forecast from'./Forcast';
 export default class Weather extends React.Component {
     constructor(props) {
